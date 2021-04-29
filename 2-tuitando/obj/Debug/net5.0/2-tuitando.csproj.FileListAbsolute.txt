@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\ref\2-tuitando.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\bin\Debug\net5.0\2-tuitando.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\ref\2-tuitando.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\2-tuitando\obj\Debug\net5.0\2-tuitando.genruntimeconfig.cache
