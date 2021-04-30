@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\1-visita-na-feira\\1-visita-na-feira.csproj",
+      "projectUniqueName": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\solucao-problemas-basicos-csharp\\1-visita-na-feira\\1-visita-na-feira.csproj",
       "projectName": "1-visita-na-feira",
-      "projectPath": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\1-visita-na-feira\\1-visita-na-feira.csproj",
+      "projectPath": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\solucao-problemas-basicos-csharp\\1-visita-na-feira\\1-visita-na-feira.csproj",
       "packagesPath": "C:\\Users\\filipe.braga\\.nuget\\packages\\",
-      "outputPath": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\1-visita-na-feira\\obj\\",
+      "outputPath": "C:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\MRV\\bootcamp-mrv-dotnet-developer\\solucao-problemas-basicos-csharp\\1-visita-na-feira\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filipe.braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
