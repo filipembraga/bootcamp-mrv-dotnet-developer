@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\ref\3-validacao-de-nota.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\bin\Debug\net5.0\3-validacao-de-nota.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\ref\3-validacao-de-nota.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\3-validacao-de-nota\obj\Debug\net5.0\3-validacao-de-nota.genruntimeconfig.cache
