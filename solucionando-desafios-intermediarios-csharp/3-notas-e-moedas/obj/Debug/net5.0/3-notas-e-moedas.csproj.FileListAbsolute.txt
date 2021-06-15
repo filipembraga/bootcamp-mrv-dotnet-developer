@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\ref\3-notas-e-moedas.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\bin\Debug\net5.0\3-notas-e-moedas.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\ref\3-notas-e-moedas.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\3-notas-e-moedas\obj\Debug\net5.0\3-notas-e-moedas.genruntimeconfig.cache
