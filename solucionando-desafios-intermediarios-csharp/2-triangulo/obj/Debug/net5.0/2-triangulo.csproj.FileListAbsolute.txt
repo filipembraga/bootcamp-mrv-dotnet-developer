@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\ref\2-triangulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\bin\Debug\net5.0\2-triangulo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\ref\2-triangulo.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\2-triangulo\obj\Debug\net5.0\2-triangulo.genruntimeconfig.cache
