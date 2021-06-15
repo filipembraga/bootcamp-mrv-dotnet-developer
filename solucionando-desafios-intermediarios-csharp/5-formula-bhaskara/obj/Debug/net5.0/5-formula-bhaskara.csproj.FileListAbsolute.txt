@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\ref\5-formula-bhaskara.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\bin\Debug\net5.0\5-formula-bhaskara.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\ref\5-formula-bhaskara.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\MRV\bootcamp-mrv-dotnet-developer\solucionando-desafios-intermediarios-csharp\5-formula-bhaskara\obj\Debug\net5.0\5-formula-bhaskara.genruntimeconfig.cache
